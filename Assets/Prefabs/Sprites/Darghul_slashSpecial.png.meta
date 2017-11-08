@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 1ec2a3aa25251dd4fbc086d542e3753b
+timeCreated: 1509871213
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Darghul_slashSpecial_0
+    21300002: Darghul_slashSpecial_1
+    21300004: Darghul_slashSpecial_2
+    21300006: Darghul_slashSpecial_3
+    21300008: Darghul_slashSpecial_4
+    21300010: Darghul_slashSpecial_5
+    21300012: Darghul_slashSpecial_6
+    21300014: Darghul_slashSpecial_7
+    21300016: Darghul_slashSpecial_8
+    21300018: Darghul_slashSpecial_9
+    21300020: Darghul_slashSpecial_10
+    21300022: Darghul_slashSpecial_11
+    21300024: Darghul_slashSpecial_12
+    21300026: Darghul_slashSpecial_13
+    21300028: Darghul_slashSpecial_14
+    21300030: Darghul_slashSpecial_15
+    21300032: Darghul_slashSpecial_16
+    21300034: Darghul_slashSpecial_17
+    21300036: Darghul_slashSpecial_18
+    21300038: Darghul_slashSpecial_19
+    21300040: Darghul_slashSpecial_20
+    21300042: Darghul_slashSpecial_21
+    21300044: Darghul_slashSpecial_22
+    21300046: Darghul_slashSpecial_23
+    21300048: Darghul_slashSpecial_24
+    21300050: Darghul_slashSpecial_25
+    21300052: Darghul_slashSpecial_26
+    21300054: Darghul_slashSpecial_27
+    21300056: Darghul_slashSpecial_28
+    21300058: Darghul_slashSpecial_29
+    21300060: Darghul_slashSpecial_30
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1472
+        width: 253
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1472
+        width: 250
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1472
+        width: 249
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_3
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1472
+        width: 249
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_4
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1472
+        width: 249
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1196
+        width: 252
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1196
+        width: 259
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1196
+        width: 250
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_8
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1196
+        width: 250
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_9
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1196
+        width: 250
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 928
+        width: 250
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 928
+        width: 263
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 928
+        width: 256
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_13
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 928
+        width: 250
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_14
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 928
+        width: 259
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 674
+        width: 251
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 672
+        width: 251
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_17
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 674
+        width: 255
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_18
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 674
+        width: 251
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_19
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 704
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_20
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 674
+        width: 251
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 300
+        width: 250
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_22
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 300
+        width: 249
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_23
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 291
+        width: 261
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_24
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 300
+        width: 250
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_25
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 300
+        width: 257
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 24
+        width: 249
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 24
+        width: 250
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_28
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 24
+        width: 249
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_29
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 24
+        width: 249
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_slashSpecial_30
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 24
+        width: 249
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

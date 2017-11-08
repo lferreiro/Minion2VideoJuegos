@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: fc6ae6c0ea652844da2ecf252d17910c
+timeCreated: 1509850299
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Darghul_ice_0
+    21300002: Darghul_ice_1
+    21300004: Darghul_ice_2
+    21300006: Darghul_ice_3
+    21300008: Darghul_ice_4
+    21300010: Darghul_ice_5
+    21300012: Darghul_ice_6
+    21300014: Darghul_ice_7
+    21300016: Darghul_ice_8
+    21300018: Darghul_ice_9
+    21300020: Darghul_ice_10
+    21300022: Darghul_ice_11
+    21300024: Darghul_ice_12
+    21300026: Darghul_ice_13
+    21300028: Darghul_ice_14
+    21300030: Darghul_ice_15
+    21300032: Darghul_ice_16
+    21300034: Darghul_ice_17
+    21300036: Darghul_ice_18
+    21300038: Darghul_ice_19
+    21300040: Darghul_ice_20
+    21300042: Darghul_ice_21
+    21300044: Darghul_ice_22
+    21300046: Darghul_ice_23
+    21300048: Darghul_ice_24
+    21300050: Darghul_ice_25
+    21300052: Darghul_ice_26
+    21300054: Darghul_ice_27
+    21300056: Darghul_ice_28
+    21300058: Darghul_ice_29
+    21300060: Darghul_ice_30
+    21300062: Darghul_ice_31
+    21300064: Darghul_ice_32
+    21300066: Darghul_ice_33
+    21300068: Darghul_ice_34
+    21300070: Darghul_ice_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darghul_ice_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1472
+        width: 255
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1472
+        width: 254
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1472
+        width: 260
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_3
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1468
+        width: 252
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_4
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1464
+        width: 249
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1201
+        width: 250
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1196
+        width: 254
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1196
+        width: 273
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_8
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1196
+        width: 276
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_9
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1196
+        width: 280
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 928
+        width: 285
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 928
+        width: 289
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 928
+        width: 302
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_13
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 928
+        width: 287
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_14
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 928
+        width: 259
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 674
+        width: 251
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 672
+        width: 255
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_18
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 674
+        width: 279
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_19
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 674
+        width: 280
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_22
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 674
+        width: 282
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 300
+        width: 275
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_26
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 300
+        width: 279
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_27
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 300
+        width: 304
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_28
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 300
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_29
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 300
+        width: 283
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 277
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 24
+        width: 277
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_32
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 24
+        width: 271
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_34
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 24
+        width: 275
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darghul_ice_35
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 24
+        width: 268
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

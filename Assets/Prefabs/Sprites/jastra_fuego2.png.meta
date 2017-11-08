@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 16c0d9848f2598b4e8f46b232bc6f41c
+timeCreated: 1509850465
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jastra_fuego2_0
+    21300002: jastra_fuego2_1
+    21300004: jastra_fuego2_2
+    21300006: jastra_fuego2_3
+    21300008: jastra_fuego2_4
+    21300010: jastra_fuego2_5
+    21300012: jastra_fuego2_6
+    21300014: jastra_fuego2_7
+    21300016: jastra_fuego2_8
+    21300018: jastra_fuego2_9
+    21300020: jastra_fuego2_10
+    21300022: jastra_fuego2_11
+    21300024: jastra_fuego2_12
+    21300026: jastra_fuego2_13
+    21300028: jastra_fuego2_14
+    21300030: jastra_fuego2_15
+    21300032: jastra_fuego2_16
+    21300034: jastra_fuego2_17
+    21300036: jastra_fuego2_18
+    21300038: jastra_fuego2_19
+    21300040: jastra_fuego2_20
+    21300042: jastra_fuego2_21
+    21300044: jastra_fuego2_22
+    21300046: jastra_fuego2_23
+    21300048: jastra_fuego2_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jastra_fuego2_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 551
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 551
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 551
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 548
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 551
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 420
+        width: 85
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 420
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 420
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_8
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 422
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 422
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 296
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 296
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 296
+        width: 88
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 296
+        width: 89
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 296
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 160
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 160
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_18
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 160
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_19
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 160
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 8
+        width: 85
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 8
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jastra_fuego2_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

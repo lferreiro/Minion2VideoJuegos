@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 425c047b43bfe9b478a8627e0301339e
+timeCreated: 1509850948
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leocep_fuego2_0
+    21300002: leocep_fuego2_1
+    21300004: leocep_fuego2_2
+    21300006: leocep_fuego2_3
+    21300008: leocep_fuego2_4
+    21300010: leocep_fuego2_5
+    21300012: leocep_fuego2_6
+    21300014: leocep_fuego2_7
+    21300016: leocep_fuego2_8
+    21300018: leocep_fuego2_9
+    21300020: leocep_fuego2_10
+    21300022: leocep_fuego2_11
+    21300024: leocep_fuego2_12
+    21300026: leocep_fuego2_13
+    21300028: leocep_fuego2_14
+    21300030: leocep_fuego2_15
+    21300032: leocep_fuego2_16
+    21300034: leocep_fuego2_17
+    21300036: leocep_fuego2_18
+    21300038: leocep_fuego2_19
+    21300040: leocep_fuego2_20
+    21300042: leocep_fuego2_21
+    21300044: leocep_fuego2_24
+    21300046: leocep_fuego2_25
+    21300048: leocep_fuego2_29
+    21300050: leocep_fuego2_31
+    21300052: leocep_fuego2_32
+    21300054: leocep_fuego2_33
+    21300056: leocep_fuego2_34
+    21300058: leocep_fuego2_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leocep_fuego2_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 796
+        width: 172
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 796
+        width: 172
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 782
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 782
+        width: 170
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_4
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 782
+        width: 176
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 528
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 528
+        width: 194
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 528
+        width: 197
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 528
+        width: 193
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_13
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 528
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 291
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 291
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 291
+        width: 203
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 291
+        width: 196
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_19
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 301
+        width: 195
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 63
+        width: 200
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_32
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 63
+        width: 190
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_33
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 63
+        width: 192
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_34
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 63
+        width: 198
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leocep_fuego2_35
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 63
+        width: 183
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
