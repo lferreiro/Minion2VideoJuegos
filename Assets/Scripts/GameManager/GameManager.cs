@@ -5,12 +5,11 @@ using UnityEngine;
 public class GameManager : MonoBehaviour {
 
 	public static int whichTurn = 1;
-	public static int currentDamage = 0;
-	public static int currentHeal = 0;
-	public static int currentMana = 0;
+
 
 	public static string leocepAlive = "alive";
 	public static string jastraAlive = "alive";
+	public static string darghulAlive = "alive";
 
 	public static string basicAttack = "n";
 	public static string secondAttack = "n";
@@ -26,9 +25,15 @@ public class GameManager : MonoBehaviour {
 		if (whichTurn == 1 && jastraAlive == "dead") {
 			GameManager.whichTurn = 2;
 		}
+		if (darghulAlive == "dead"){
+			GameManager.whichTurn = 4;
+			Debug.Log("Victory");
+		}
 
-		if (whichTurn == 2 && leocepAlive == "dead") {
-			GameManager.whichTurn = 1;
+		if (whichTurn == 5) {
+			Debug.Log ("Defeat");
+			GetComponent<Renderer> ().sortingOrder = 20;
+			gameObject.transform.position = new Vector3 (0, 0, 0);
 		}
 		
 	}

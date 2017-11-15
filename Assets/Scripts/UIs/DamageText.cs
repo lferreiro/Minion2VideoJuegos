@@ -8,7 +8,7 @@ public class DamageText : MonoBehaviour {
 	void Start () {
 
 		GetComponent<Renderer> ().sortingOrder = 20;
-		GetComponent<TextMesh> ().text = GameManager.currentDamage.ToString();
+		GetComponent<TextMesh> ().text = ControladorPelea.currentDamage;
 		Destroy (gameObject, 1);
 		
 	}

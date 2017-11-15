@@ -1,22 +1,8 @@
-﻿using System.Collections;
+﻿/*using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 [System.Serializable]
-public struct Habilidad{
-	public string nombre;
-	public bool objetivoEsElMismo;
-
-	public bool esDeFuerza;
-
-	public string mensaje;
-	public float argumento;
-
-	public string animationTrigger;
-
-	public int costoMana;
-
-}
 
 public class Peleador : MonoBehaviour {
 
@@ -79,4 +65,4 @@ public class Peleador : MonoBehaviour {
 	void Update () {
 		
 	}
-}
+}*/ 

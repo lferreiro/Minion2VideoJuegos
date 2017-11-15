@@ -2,19 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HealText : MonoBehaviour {
+public class ManaText : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-
 		GetComponent<Renderer> ().sortingOrder = 20;
-		GetComponent<TextMesh> ().text = GameManager.currentHeal.ToString();
+		GetComponent<TextMesh> ().text = ControladorPelea.currentMana;
 		Destroy (gameObject, 1);
-
+		
 	}
-
+	
 	// Update is called once per frame
 	void Update () {
-
+		
 	}
 }

@@ -16,6 +16,14 @@ public class Buttons2 : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+		if (GameManager.whichTurn == 3 || GameManager.whichTurn == 4 || GameManager.whichTurn == 5) {
+			GetComponent<Renderer> ().sortingOrder = -1;
+		}
+		else {
+			GetComponent<Renderer> ().sortingOrder = 20;
+		}
+
+
 		if (GameManager.whichTurn == 1) {
 			GetComponent<SpriteRenderer> ().sprite = iceAttack;
 		}
